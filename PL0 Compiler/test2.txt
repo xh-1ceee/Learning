@@ -1,0 +1,10 @@
+const a=10;
+var b,c;
+procedure test;
+begin
+ c:=a+b*2;
+end;
+begin
+ b:=5;
+ call test;
+end.
