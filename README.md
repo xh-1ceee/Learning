@@ -13,5 +13,12 @@ The program is used for measuring the relavance between a given query and all do
 ## PL0 Compiler
 This is a course design project for compiler principles————a compiler for PL0 programming language written in C++.  
 The complier only gives the intermediate codes due to course time constraint.And there are still some problems remain.  
-___   
+
+## Wiki Web
+
+This is a web design course work,which is a game wiki of 《Destiny 2》.  
+
+It mainly involves front-end tech like css and html. All designs are developed based on bootstrap.   
+
+___
 Maybe someday I will review these codes :D  

@@ -1,0 +1,193 @@
+body{
+    margin-top: 50px;
+    line-height: 1.6;
+}
+
+.destiny2_body{
+    background-image: url("../imgs/917700.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+    background-size:cover;
+}
+.feedback_body{
+    background-image: url("../imgs/destiny2_3.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+    background-size: cover;
+}
+.about_body{
+    background-image: url("../imgs/desitiny2.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+    background-size: cover;
+}
+.background_alpha{
+    background-color: rgba(248,249,250,0.8);
+}
+
+.text-pos-center{
+    text-align: center;
+}
+.table-header{
+    background: linear-gradient(to right, #28326D 0%, #FED1BA 140%);
+    color: #FFFFFF;
+    text-align: center;
+    padding:10px
+}
+.table-header-left{
+    background: linear-gradient(to right, #28326D 0%, #FED1BA 140%);
+    color: #FFFFFF;
+    text-align: left;
+    padding:10px
+}
+.width-33{
+    width: 33.333%;
+}
+.width-100,.season_list{
+    width: 100%;
+}
+.img-center{
+    display: block;
+    margin: 0 auto;
+}
+.div-inline{ display:inline}
+.text-white{
+    color: white;
+}
+.mt-60{
+    margin-top: 60px;
+}
+.center{
+    width: 100%;
+    text-align: center;
+}
+.div-occu{
+    padding: 10px;
+    text-align: center;
+    font-family: EasonPro, Helvetica, Arial, sans-serif;
+    font-size:18px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.ml-40{
+    margin-left: 40px;
+}
+.mr-40{
+    margin-right: 40px;
+}
+
+.mb-60{
+    margin-bottom: 56px;
+}
+.season_list li{
+    text-align: center;
+    list-style: none;
+    float: left;
+    width: 20%;
+    font-size: 16px;
+}
+.season_name{
+    color:#28326D;
+    font-family: fantasy;
+    font-size:18px;
+}
+.occu_name{
+    color:#28326D;
+    font-family: fantasy;
+    font-size:18px;
+}
+.items{
+    color:#28326D;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 16px;
+}
+.quote_template{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+
+}
+
+.toc{
+    display: inline-block;
+    display: table;
+    zoom: 1;
+    *display: inline;
+    padding: 7px;
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 5px;
+    font-size: 95%;
+    line-height: 1.6;
+}
+.toctitle{
+    display: inline;
+    border: 0;
+    padding: 0;
+    text-align: center;
+}
+.toc h2{
+    font-size: 100%;
+    display: inline;
+    border: 0;
+    padding: 0;
+    font-size: 100%;
+    font-weight: bold;
+    margin-top: 1em;
+}
+.toctoggle {
+    font-size: 94%;
+}
+.tochidden, .toctoggle {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
+    direction: ltr;
+    text-align: center;
+}
+#toc, .toc, .mw-warning, .toccolours {
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    padding: 5px;
+    font-size: 95%;
+}
+a:not( [href] ) {
+    cursor: pointer;
+}
+.toc ul,#toc ul {
+    text-align: left;
+}
+#toc ul, .toc ul {
+    list-style-type: none;
+    list-style-image: none;
+    margin-left: 0;
+    padding: 0;
+    text-align: left;
+    margin: 0.3em 0;
+}
+.infobox{
+    font-size: 90%;
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+    border-spacing: 5px;
+    display: inline-table!important;
+    border: 1px solid #020202;
+    background-color: #f9f9f9;
+    color: black;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    text-align: center;
+}
